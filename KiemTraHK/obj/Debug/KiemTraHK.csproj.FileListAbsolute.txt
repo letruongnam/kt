@@ -1,0 +1,10 @@
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\bin\Debug\KiemTraHK.exe.config
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\bin\Debug\KiemTraHK.exe
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\bin\Debug\KiemTraHK.pdb
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\obj\Debug\KiemTraHK.csprojAssemblyReference.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\obj\Debug\KiemTraHK.Properties.Resources.resources
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\obj\Debug\KiemTraHK.csproj.GenerateResource.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\obj\Debug\KiemTraHK.csproj.CoreCompileInputs.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\obj\Debug\KiemTraHK.exe
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\obj\Debug\KiemTraHK.pdb
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\KiemTraHK\obj\Debug\KiemTraHK.formMain.resources

@@ -1,0 +1,15 @@
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\obj\Debug\APPQLNV.csprojAssemblyReference.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\obj\Debug\APPQLNV.Form1.resources
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\obj\Debug\APPQLNV.Properties.Resources.resources
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\obj\Debug\APPQLNV.csproj.GenerateResource.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\obj\Debug\APPQLNV.csproj.CoreCompileInputs.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\bin\Debug\APPQLNV.exe.config
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\bin\Debug\APPQLNV.exe
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\bin\Debug\APPQLNV.pdb
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\bin\Debug\EntityFramework.dll
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\bin\Debug\EntityFramework.xml
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\obj\Debug\APPQLNV.csproj.CopyComplete
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\obj\Debug\APPQLNV.exe
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\APPQLNV\obj\Debug\APPQLNV.pdb

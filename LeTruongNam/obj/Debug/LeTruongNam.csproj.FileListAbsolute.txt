@@ -1,0 +1,17 @@
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\bin\Debug\LeTruongNam.exe.config
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\bin\Debug\LeTruongNam.exe
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\bin\Debug\LeTruongNam.pdb
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\bin\Debug\EntityFramework.dll
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\bin\Debug\EntityFramework.xml
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.csprojAssemblyReference.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.Form1.resources
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.Properties.Resources.resources
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.csproj.GenerateResource.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.csproj.CoreCompileInputs.cache
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.csproj.CopyComplete
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.exe
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.pdb
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.GUI.formThemNhom.resources
+C:\Users\nam\Desktop\git\Winform\Nhom1_2020\LeTruongNam\obj\Debug\LeTruongNam.GUI.formDanhBa.resources
